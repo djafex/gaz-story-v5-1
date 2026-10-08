@@ -1,15 +1,14 @@
 {
-  "name": "gaz-story-studio-v5",
-  "version": "5.0.0",
-  "private": true,
-  "type": "module",
-  "engines": {
-      "node": "22.x"
-      }
-  }
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "echo G@z Story Studio build completed"
-  },
-  "dependencies": {}
-
+    "name": "gaz-story-studio-v5",
+      "version": "5.0.0",
+        "private": true,
+          "type": "module",
+            "engines": {
+                "node": "22.x"
+                  },
+                    "scripts": {
+                        "dev": "vercel dev",
+                            "build": "echo G@z Story Studio build completed"
+                              },
+                                "dependencies": {}
+                                }
